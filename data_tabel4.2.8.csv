@@ -1,34 +1,34 @@
-Provinsi,RSU 2024,RSK 2024
-Aceh,72,9
-Sumatera Utara,185,25
-Sumatera Barat,52,26
-Riau,67,16
-Jambi,41,3
-Sumatera Selatan,71,17
-Bengkulu,23,3
-Lampung,63,19
-Kepulauan Bangka Belitung,25,4
-Kepulauan Riau,32,4
-DKI Jakarta,139,51
-Jawa Barat,373,57
-Jawa Tengah,310,50
-DI Yogyakarta,63,16
-Jawa Timur,353,86
-Banten,106,25
-Bali,66,16
-Nusa Tenggara Barat,39,7
-Nusa Tenggara Timur,63,3
-Kalimantan Barat,50,8
-Kalimantan Tengah,30,3
-Kalimantan Selatan,42,9
-Kalimantan Timur + Utara,67,12
-Sulawesi Utara,50,10
-Sulawesi Tengah,36,4
-Sulawesi Selatan,100,26
-Sulawesi Tenggara,36,4
-Gorontalo,19,1
-Sulawesi Barat,14,2
-Maluku,29,5
-Maluku Utara,21,2
-Papua,73,2
-Indonesia,2710,525
+Provinsi,RSU 2024,RSK 2024,Puskemas Rawat Inap 2024,Puskemas Non-rawat inap 2024
+Aceh,72,9,172,194
+Sumatera Utara,185,25,178,441
+Sumatera Barat,52,26,109,171
+Riau,67,16,120,119
+Jambi,41,3,97,111
+Sumatera Selatan,71,17,115,235
+Bengkulu,23,3,52,127
+Lampung,63,19,162,158
+Kepulauan Bangka Belitung,25,4,25,39
+Kepulauan Riau,32,4,30,66
+DKI Jakarta,139,51,2,42
+Jawa Barat,373,57,276,830
+Jawa Tengah,310,50,371,510
+DI Yogyakarta,63,16,47,74
+Jawa Timur,353,86,616,357
+Banten,106,25,70,183
+Bali,66,16,37,83
+Nusa Tenggara Barat,39,7,148,29
+Nusa Tenggara Timur,63,3,180,255
+Kalimantan Barat,50,8,133,116
+Kalimantan Tengah,30,3,86,118
+Kalimantan Selatan,42,9,52,190
+Kalimantan Timur + Utara,67,12,119,127
+Sulawesi Utara,50,10,94,105
+Sulawesi Tengah,36,4,119,100
+Sulawesi Selatan,100,26,296,178
+Sulawesi Tenggara,36,4,100,208
+Gorontalo,19,1,25,70
+Sulawesi Barat,14,2,55,43
+Maluku,29,5,93,147
+Maluku Utara,21,2,57,93
+Papua,73,2,198,459
+Indonesia,2710,525,4234,5978
